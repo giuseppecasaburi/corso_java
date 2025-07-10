@@ -1,0 +1,5 @@
+Prodotto [id = 1, nome = Prodotto A, categoria = Elettronica]
+Prodotto [id = 3, nome = Prodotto C, categoria = Guardaroba]
+Prodotto [id = 5, nome = Prodotto E, categoria = Elettronica]
+Prodotto [id = 6, nome = Prodotto F, categoria = Guardaroba]
+Prodotto [id = 7, nome = Prodotto G, categoria = Elettronica]
